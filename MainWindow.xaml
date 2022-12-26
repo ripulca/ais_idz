@@ -16,8 +16,8 @@
         <TextBox x:Name="output" HorizontalAlignment="Center" Margin="0,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="780" Height="299"/>
         <Label Content="Имя пользователя:" HorizontalAlignment="Left" Margin="66,6,0,0" VerticalAlignment="Top"/>
         <Label Content="Пароль:" HorizontalAlignment="Left" Margin="280,6,0,0" VerticalAlignment="Top"/>
-        <Label Content="IP адрес:" HorizontalAlignment="Left" Margin="66,55,0,0" VerticalAlignment="Top"/>
-        <Label Content="Домен:" HorizontalAlignment="Left" Margin="280,55,0,0" VerticalAlignment="Top"/>
+        <Label Content="Имя пк:" HorizontalAlignment="Left" Margin="66,55,0,0" VerticalAlignment="Top"/>
+        <Label Content="Рабочая группа:" HorizontalAlignment="Left" Margin="280,55,0,0" VerticalAlignment="Top"/>
 
 
 
